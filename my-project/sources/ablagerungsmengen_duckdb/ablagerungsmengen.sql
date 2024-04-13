@@ -1,0 +1,1 @@
+SELECT * FROM '/Users/stefan/Downloads/ch.so.afu.abfallmengen_gemeinden.parquet'
